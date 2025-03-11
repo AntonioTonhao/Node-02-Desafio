@@ -1,0 +1,9 @@
+# DEPENDECIES
+node_modules
+# DATABASE
+db/*.db
+# ENVIROMENT
+.env
+.env.test
+# BUILD
+build
