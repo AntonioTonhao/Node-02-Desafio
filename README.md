@@ -1,12 +1,22 @@
 # REQUISITOS FUNCIONAIS
 
-- [X] O usuario deve criar uma nova transação,
-- [X] O usuario deve poder obter o resumo da sua conta,
-- [X] O usuario deve poder listar todas as transações que ja ocorreram,
-- [X] O usuario deve poder visualizar uma transação unica,
+# USERS
+- [X] Deve ser possivel criar um usuario,
+- [X] Deve ser possivel identificar o usuario entre as requisições,
+- [X] Deve ser possível recuperar as métricas de um usuário
+- [X] O usuário só pode visualizar, editar e apagar as refeições o qual ele criou
 
-
-
-- [X] A transação pode ser do tipo credito que irá somar ou do tipo debito que irá subtrair,
-- [ ] Deve ser possivel identificar o usuario entre as transações,
-- [ ] O usuario so pode visualizar as transações que ele fez,
+# MEALS
+- [X] Deve ser possível registrar uma refeição feita, com as seguintes informações:
+    - Nome,
+    - Descrição,
+    - Data e Hora,
+    - Está dentro ou não da dieta,
+- [ ] Deve ser possível editar uma refeição, podendo alterar todos os dados acima
+- [ ] Deve ser possível apagar uma refeição
+- [X] Deve ser possível listar todas as refeições de um usuário
+- [X] Deve ser possível visualizar uma única refeição
+- [ ] Quantidade total de refeições registradas
+- [ ] Quantidade total de refeições dentro da dieta
+- [ ] Quantidade total de refeições fora da dieta
+- [ ] Melhor sequência de refeições dentro da dieta
