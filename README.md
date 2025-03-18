@@ -5,10 +5,10 @@
 - [X] Deve ser possivel identificar o usuario entre as requisições,
 - [X] O usuário só pode visualizar, editar e apagar as refeições o qual ele criou,
 - Deve ser possível recuperar as métricas de um usuário
-- [ ] Quantidade total de refeições registradas
-- [ ] Quantidade total de refeições dentro da dieta
-- [ ] Quantidade total de refeições fora da dieta
-- [ ] Melhor sequência de refeições dentro da dieta
+- [X] Quantidade total de refeições registradas
+- [X] Quantidade total de refeições dentro da dieta
+- [X] Quantidade total de refeições fora da dieta
+- [X] Melhor sequência de refeições dentro da dieta
 
 # MEALS
 - [X] Deve ser possível registrar uma refeição feita, com as seguintes informações:
